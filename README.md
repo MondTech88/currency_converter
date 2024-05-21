@@ -3,9 +3,8 @@
 A simple Flutter Currency Converter App. This is the first app i've build in my project of mastering flutter framework
 
 ## Screens
-![Alt "Screen 1"](assets/screens/screen1.png)
-![Alt "Screen 2"](assets/screens/screen1.png)
-![Alt "Screen 3"](assets/screens/screen1.png)
+
+<img src="assets/screens/screen1.png" width="250">
 
 
 This project is a starting point for a Flutter application.
