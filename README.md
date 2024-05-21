@@ -4,8 +4,9 @@ A simple Flutter Currency Converter App. This is the first app i've build in my 
 
 ## Screens
 
-<img src="assets/screens/screen1.png" width="250">
-
+<img alt="screen 1" src="assets/screens/screen1.png" width="290"/>
+<img alt="screen 2" src="assets/screens/screen2.png" width="290"/>
+<img alt="screen 3" src="assets/screens/screen3.png" width="290"/>
 
 This project is a starting point for a Flutter application.
 
